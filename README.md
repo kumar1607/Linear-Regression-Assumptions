@@ -13,6 +13,7 @@ Multicollinearity
 Multicollinearity refers to the presence of high correlation between independent variables in a regression model, which can cause issues such as unstable coefficient estimates and difficulty in interpreting the effects of individual predictors.
 
 3.Normality of residuals (**Distribution of residuals/errors should be normal**)
+
 4.Homoscadascity: The plot of errors should be homogenous.
 **Homoscedasticity**
 
